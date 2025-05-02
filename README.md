@@ -1,5 +1,5 @@
 **Author:** [Your Name]
-**Project for:** Washington State Science and Engineering Fair (WSSEF) [Specify Year]
+**Project for:** Washington State Science and Engineering Fair (WSSEF) 2025, Second Place Award
 
 ## Overview
 
@@ -17,4 +17,7 @@ The model was trained on a dataset comprising >10,000 images containing trash cl
 * **Object Detection:** Ultralytics YOLOv11
 * **Core Libraries:** PyTorch / TensorFlow, OpenCV, NumPy
 **Contact:** Vedant Vikramaditya - vikramaditya.vedant@gmail.com]
+
+The detailed methodology and results are available in the full report:
+[Download Full Report (PDF)](Development_of_an_AI_solution_to_improve_public_litter_management.pdf)
   
