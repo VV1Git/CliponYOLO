@@ -9,12 +9,12 @@ This project explores using computer vision for automated trash detection to hel
 
 ## Dataset
 
-The model was trained on a dataset comprising [Number] images containing trash classes such as `[plastic_bottle, can, cardboard, etc.]`. The data was sourced from [e.g., Public dataset TACO / Custom collection / Mix] and annotated using [e.g., Roboflow/LabelImg].
+The model was trained on a dataset comprising >10,000 images containing trash classes such as `[plastic_bottle, can, cardboard, etc.]`. The data was sourced from >10 litter collection cleanup projects done using the proprietary hardware and annotated using LabelMe.
 
 ## Technology Stack
 
-* **Python** [Specify Version, e.g., 3.9+]
-* **Object Detection:** [Specify YOLO Framework, e.g., Ultralytics] / YOLOvX
+* **Python** [3.9+]
+* **Object Detection:** Ultralytics YOLOv11
 * **Core Libraries:** PyTorch / TensorFlow, OpenCV, NumPy
-**Contact:** [Your Name] - [Your Email (Optional)]
+**Contact:** Vedant Vikramaditya - vikramaditya.vedant@gmail.com]
   
